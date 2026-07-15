@@ -33,7 +33,7 @@ for option in selcted_optios.split(","):
                 selected_subjects.append(subject)
             
             
-print("\nMaterias seleccionadas:")
+print("\nMaterias seleccionadas:\n")
 
 if selected_subjects:
     print(*selected_subjects, sep="\n")
