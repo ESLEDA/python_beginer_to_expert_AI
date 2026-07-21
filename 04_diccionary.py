@@ -1,3 +1,3 @@
-dic = {"key":"***"}a
+dic = {"key":"***"}
 
 #this is a message
