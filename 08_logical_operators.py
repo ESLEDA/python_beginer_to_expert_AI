@@ -31,7 +31,7 @@ def verificar():
 resultado = False and verificar()
 print(resultado)
 
-'''
+message = '''
 Resultado:False
 
 Nota que "Se ejecutó verificar()" nunca se imprime,
